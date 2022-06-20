@@ -1,0 +1,6 @@
+framework module UMSDK {
+  umbrella header "UMSDK.h"
+
+  export *
+  module * { export * }
+}
